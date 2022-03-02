@@ -1,4 +1,4 @@
-# -Comprehensive-MLA-to-predict-the-price-of-new-jewelries-SAS
+# -Comprehensive-MLA-to-predict-the-price-of-new-jewelries-SAS Enterprise Miner
 jewelry company wants to put in a bid to purchase a large set of diamonds but is unsure how much
 it should bid. In this project, results from a predictive model to make recommendation on how much
 the jewelry company should bid for the diamonds.
