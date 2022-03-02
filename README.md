@@ -13,3 +13,4 @@ After applying the models, the cross validation has been deployed to validate th
 initiated model, then we ensemble the models both with itself or other models. The result of
 comparison shows that the ensemble of the ANN model is the best choice for the prediction. And we
 use them to predict the price of the new diamonds.
+![image](https://user-images.githubusercontent.com/86559933/156399902-083e7142-0229-46a8-b991-4a44598e82de.png)
